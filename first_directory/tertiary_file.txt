@@ -1,3 +1,5 @@
 This is a third file.
 
 It should be move to first_directory.
+
+1) Do what you love, Love what you do...
